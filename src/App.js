@@ -1,3 +1,4 @@
+import React from 'react'
 import { Route, Routes } from 'react-router-dom';
 import { CreateContainer, Header, MainContainer } from './components';
 import {AnimatePresence} from 'framer-motion';
